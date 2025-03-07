@@ -20,12 +20,6 @@ knitr::opts_chunk$set(fig.width = 6,
 library(tidyverse)
 ```
 
-```{r}
-#| echo: false
-#| out.width: "100%"
-knitr::include_graphics('images/LTER-Network-Logo-2017.jpg')
-```
-
 This lab will walk us through some basic statistical tests in R, including chi-square, t-tests, and correlation tests. We will use data from the Long-Term Ecological Research (LTER) Network, which is a collaborative effort involving more than 2000 scientists and students investigating ecological processes over long temporal and broad spatial scales. The basics of this lab were adopted from a previous version of this course. This qmd for this lab can be downloaded [here](). Please download it into the repo of your choice and open it in RStudio to work through this lab:
 
 # Part 1: Univariate and Bivariate Statistics
