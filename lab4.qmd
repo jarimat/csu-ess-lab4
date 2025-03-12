@@ -6,7 +6,6 @@ format:
     toc: true
 subtitle: 'Introduction to Statistics in R'
 author: Jake Matullo
-output-location: docs
 ---
 
 ```{r, include = F}
